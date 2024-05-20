@@ -173,7 +173,12 @@
         }
     }
 }
-
+.connect-icons {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+}
 
 /* End Home Banner Area css
 ============================================================================================ */
